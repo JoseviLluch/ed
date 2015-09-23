@@ -110,3 +110,45 @@
   110  gedit diario.txt
   111  history
   112  history > diario.txt
+  113  gedit diario.txt
+  114  cd ..
+  115  cd..
+  116  cd ..
+  117  cd ed
+  118  cd ..
+  119  cd ed
+  120  cd ..
+  121  su administrador
+  122  clear
+  123  cd ed
+  124  gedit diario.txt
+  125  cd ed
+  126  gedit diario.txt
+  127  git log
+  128  git status
+  129  cat diario.txt~
+  130  rm diario.txt~
+  131  git status
+  132  git add. 
+  133  git add.
+  134  git add .
+  135  git status
+  136  git commit -m "Añadido diario.txt"
+  137  git log
+  138  git push
+  139  cd LenguajeC
+  140  gedit HolaMundo.txt
+  141  gedit HolaMundo.c
+  142  cd ..
+  143  git status
+  144  cd -
+  145  gcc
+  146  gcc -o holamundo.exe holamundo.c
+  147  gcc -o HolaMundo.exe HolaMundo.c 
+  148  git status
+  149  ls
+  150  ./HolaMundo.exe
+  151  history>historial.txt
+  152  history>diario.txt
+  153  cd ..
+  154  history>diario.txt
