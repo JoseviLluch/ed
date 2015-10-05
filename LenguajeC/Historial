@@ -1,0 +1,246 @@
+    1  apt-get moo
+    2  aptitude moo
+    3  apt-get moo
+    4  git clone https://github.com/JoseviLluch/ed.git
+    5  ls-l
+    6  ls -l
+    7  cd ed
+    8  pwd
+    9  git status 
+   10  gedit hola mundo
+   11  gedit hola-mundo-git.txt
+   12  Hola mundo
+   13  git stratus
+   14  git status
+   15  git add .
+   16  git status
+   17  git config --global user.name JoseviLluch
+   18  git config --global user.email dam.jlluch@institutoserpis.org
+   19  git config --list
+   20  apt-get moo
+   21  clear
+   22  git config--help
+   23  git config --help
+   24  git config --list
+   25  git commit -m "Hola mundo desde git"
+   26  git log
+   27  ls
+   28  git checkout 68f252
+   29  ls
+   30  git checkout master
+   31  exit
+   32  automatix
+   33  sudo aptitude install rar unrar
+   34  sudo aptitude install p7zip
+   35  sudo apt-get install wine
+   36  clear
+   37  sudo apt-get install wine
+   38  no
+   39  wine
+   40  root
+   41  sudo apt-get wine
+   42  clear
+   43  sudo apt-get install wine
+   44  sudo dpkg--configure -a
+   45  sudo dpkg
+   46  sudo apt-get uninstall git
+   47  sudo apt-get purge gity
+   48  sudo apt-get purge get
+   49  sudo dpkg
+   50  reset
+   51  sudo apt-get install wine
+   52  clear
+   53  sudo apt-get git
+   54  sudo apt-get install git
+   55  clear
+   56  git log
+   57  git add
+   58  cd ed
+   59  git log
+   60  cd :
+   61  cd ..
+   62  cd ed
+   63  cd ..
+   64  clear
+   65  cd ed
+   66  git log
+   67  cd ..
+   68  dkg
+   69  clear
+   70  sudo
+   71  celar
+   72  clear
+   73  cd ed
+   74  git push
+   75  cd ed
+   76  git status
+   77  git push
+   78  cd ed
+   79  git status
+   80  git push
+   81  ls
+   82  gedit
+   83  cd ed
+   84  cd ..
+   85  sudo
+   86  sudo apt-get
+   87  sudo apt-get check
+   88  su administrador
+   89  sudo apt-get check
+   90  sudo apt-get install wine
+   91  wine
+   92  cd Java
+   93  cd JAVA
+   94  D java
+   95  cd java
+   96  cd JAVA
+   97* javac HolaMundo.java0
+   98  clear
+   99  javac HolaMundo.java
+  100  java HolaMundo
+  101  javac
+  102  javac HolaMundo.java
+  103  java HolaMundo
+  104  javac HolaMundo.java
+  105  java HolaMundo
+  106  cd ed
+  107  ls
+  108  gedit diario.txt
+  109  gedit diario.txt&
+  110  gedit diario.txt
+  111  history
+  112  history > diario.txt
+  113  gedit diario.txt
+  114  cd ..
+  115  cd..
+  116  cd ..
+  117  cd ed
+  118  cd ..
+  119  cd ed
+  120  cd ..
+  121  su administrador
+  122  clear
+  123  cd ed
+  124  gedit diario.txt
+  125  cd ed
+  126  gedit diario.txt
+  127  git log
+  128  git status
+  129  cat diario.txt~
+  130  rm diario.txt~
+  131  git status
+  132  git add. 
+  133  git add.
+  134  git add .
+  135  git status
+  136  git commit -m "Añadido diario.txt"
+  137  git log
+  138  git push
+  139  cd LenguajeC
+  140  gedit HolaMundo.txt
+  141  gedit HolaMundo.c
+  142  cd ..
+  143  git status
+  144  cd -
+  145  gcc
+  146  gcc -o holamundo.exe holamundo.c
+  147  gcc -o HolaMundo.exe HolaMundo.c 
+  148  git status
+  149  ls
+  150  ./HolaMundo.exe
+  151  history>historial.txt
+  152  history>diario.txt
+  153  cd ..
+  154  history>diario.txt
+  155  cd
+  156  cd lengiaje
+  157  cd Lenguaje
+  158  cd lenguaje c
+  159  cd ed
+  160  cd LenguajeC
+  161  rmk HolaMundo.exe
+  162  rm HolaMundo.exe
+  163  ls
+  164  gcc HolaMundo.c
+  165  gcc --help
+  166  ls
+  167  rm HolaMundo.c
+  168  ls -la
+  169  gcc -E HolaMundo.c
+  170  gedit HolaMundo.c
+  171  gcc -E HolaMundo.c
+  172  gcc -E HolaMundo.c >HolaMundo.pp
+  173  gedit HolaMundo.pp
+  174  gcc help
+  175  gcc --help
+  176  ls
+  177  rm HolaMundo.pp~
+  178  rm HolaMundo.pp
+  179  gcc -S HolaMundo.c
+  180  ls -ls
+  181  ls -lA
+  182  gedit HolaMundo.s
+  183  rm HolaMundo.s
+  184  gcc --help
+  185  gcc -c HolaMundo.c
+  186  ls -la
+  187  rm HolaMundo.o
+  188  ls -l
+  189  gcc -c -v --help | grep --static
+  190  ls -l
+  191  gcc - static -o HolaMundo.exe HolaMundo.c
+  192  gcc -static -o HolaMundo.exe HolaMundo.c
+  193  ls -l
+  194  git status
+  195  cd ed
+  196  ed
+  197  cd ed
+  198  git add diario.txt
+  199  git status
+  200  git add LenguajeC/
+  201  git status
+  202  git commit -m "Realizado HolaMundo.c"
+  203  git push
+  204  git log
+  205  gedeit ejemplo.py
+  206  clear
+  207  gedit ejemplo.py
+  208  pyton ejemplo.py
+  209  pyton ejemplo
+  210  python ejemplo.py
+  211  clear
+  212  gedit ejemplo.py
+  213  python ejemplo.py
+  214  gedit ejemplo.py
+  215  python ejemplo.py
+  216  gedit ejemplo.py
+  217  python ejemplo.py
+  218  gedit ejemplo.py
+  219  gedit ejemplo2.py
+  220  python ejemplo2.py
+  221  gedit ejemplo3.py
+  222  python ejemplo3.py
+  223  gedit ejemplo3.py
+  224  gedit ejemplo4.gnu
+  225  @
+  226  gedit ejemplo3.py
+  227  python ejemplo3.py
+  228  gedit ejemplo3.py
+  229  python ejemplo3.py
+  230  sudo apt-get install logisin
+  231  SUDO APT-GET INSTALL LOGISIM
+  232  sudo apt-get install logisim
+  233  cd lenguajeC/
+  234  cd lenguaje
+  235  history
+  236  cd lenguaje c
+  237  cd LenguajeC
+  238  cd ed
+  239  cd LenguajeC/
+  240  gedit jolamundo.c
+  241  gedit HolaMundo.C
+  242  git status
+  243  cd ..
+  244  gedit Historial
+  245  cd LenguajeC/
+  246  history>Historial
