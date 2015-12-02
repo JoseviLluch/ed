@@ -1,7 +1,7 @@
 using System;
 using Gtk;
 
-namespace Bingo
+namespace PBingo
 {
 	class MainClass
 	{
