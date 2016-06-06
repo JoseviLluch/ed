@@ -79,6 +79,7 @@
     <Compile Include="App.cs" />
     <Compile Include="WindowHelper.cs" />
     <Compile Include="DbHelper.cs" />
+    <Compile Include="gtk-gui\CCategoria.DbHelper.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

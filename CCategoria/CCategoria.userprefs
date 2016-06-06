@@ -1,11 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CCategoria/DbHelper.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CCategoria/MainWindow.cs">
     <Files>
-      <File FileName="CCategoria/MainWindow.cs" Line="86" Column="4" />
-      <File FileName="CCategoria/CategoriaView.cs" Line="1" Column="1" />
+      <File FileName="CCategoria/MainWindow.cs" Line="56" Column="4" />
+      <File FileName="CCategoria/CategoriaView.cs" Line="15" Column="5" />
       <File FileName="CCategoria/App.cs" Line="1" Column="1" />
-      <File FileName="CCategoria/DbHelper.cs" Line="7" Column="3" />
+      <File FileName="CCategoria/DbHelper.cs" Line="9" Column="42" />
+      <File FileName="CCategoria/WindowHelper.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
